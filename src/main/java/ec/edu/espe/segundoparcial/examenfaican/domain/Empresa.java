@@ -63,9 +63,11 @@ public class Empresa {
 
     @Override
     public String toString() {
-        return "empresa [id=" + id + ", ruc=" + ruc + ", razonSocial=" + razonSocial + ", fechaCreacion="
+        return "Empresa [id=" + id + ", ruc=" + ruc + ", razonSocial=" + razonSocial + ", fechaCreacion="
                 + fechaCreacion + ", version=" + version + "]";
     }
+
+    
 
     
     
